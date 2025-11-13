@@ -1,0 +1,13 @@
+{
+  "name": "synq-coin-engine",
+  "version": "1.0.0",
+  "description": "Skill Coin transaction system",
+  "main": "transaction.js",
+  "scripts": {
+    "start": "node demo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["blockchain", "transactions", "skill-coin"],
+  "author": "Onyedikachi Chita",
+  "license": "MIT"
+}
